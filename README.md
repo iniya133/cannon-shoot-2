@@ -1,1 +1,1 @@
-# cannon-shoot-2
+# cannon-shoot-2 project
